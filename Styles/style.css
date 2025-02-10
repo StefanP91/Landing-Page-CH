@@ -168,6 +168,10 @@ main{
         color: #000000;
         text-align: center;
         margin-bottom: 3% !important;
+
+        & span{
+            color: #7360F2;
+        }
     }
 
     & .left-side{
