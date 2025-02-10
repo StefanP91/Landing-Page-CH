@@ -292,6 +292,11 @@
         & a{
             margin-top: 10% !important;
         }
+
+        & .video-container-end{
+            width: 100%;  
+            
+        }
     }
 
     footer {
