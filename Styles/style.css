@@ -59,7 +59,7 @@ header{
 
 /* MAIN */
 main{
-    background-image: url('../images/main-bg.svg');
+    background-image: url('../images/main-bg.webp');
     background-repeat: no-repeat;
     background-size: cover;
 }
